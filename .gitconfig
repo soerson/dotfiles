@@ -1,0 +1,9 @@
+[user]
+	name = soerson
+	email = soerson@pm.me
+[alias]
+	st = status
+	co = checkout
+	cm = commit -m
+	ca = commit -am
+	br = branch
